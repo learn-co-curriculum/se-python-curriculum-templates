@@ -35,7 +35,7 @@ eum magnam ullam ut quibusdam quaerat.
 
 ## Resources
 
-- [About Python](https://www.python.org/doc/essays/blurb/)
-- [Python documentation][python docs]
+- [Resource 1](https://www.python.org/doc/essays/blurb/)
+- [Reused Resource][reused resource]
 
-[python docs]: https://docs.python.org/3/
+[reused resource]: https://docs.python.org/3/
